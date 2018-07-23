@@ -8,8 +8,10 @@ Patches
 I've added some useful patches to the vanilla dwm environment in order 
 to make it usable for me.
 
-- Scratchpad 
+- Scratchpad
 - BottomStack
+- Attachaside
+- cfact
 
 
 
